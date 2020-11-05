@@ -1,0 +1,10 @@
+## 05/11/2020
+###  1. applications - fc_layers
+      Used for single-3FC case, including a 3FC component and one FC layer.   
+      #### Unsolved:
+      - line 74-77: difference between Dropout & AlphaDropout, relu & selu?
+###  2. applications - con2d_bn
+      Convolutional layer + Batch Normalization. Using ReLu as activation.
+###  3. inception_block
+      Graphic OK.
+      
