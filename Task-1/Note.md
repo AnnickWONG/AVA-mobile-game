@@ -9,7 +9,7 @@
       Graphic OK.
 
 
-##06/11/2020
+## 06/11/2020
 ###   1. applications - model_inception_multigap
       Used for extraction of narrow MLSP features.
       Using definited size crop as input.
